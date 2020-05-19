@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+}
+
+.cadre {
+    height: 280px;
+    width: 450px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.cadre__marge {
+    margin-top: 160px;
+}
+
+p {
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+    padding-top: 90px;
+}
+
+.cadre__button {
+    background-color: white;
+    border-style: none;
+    padding: 8px;
+    border-radius: 20%;
+    position: relative;
+    color: black;
+    left: 730px;
+    top: 40px;
+}
